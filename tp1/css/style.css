@@ -1,0 +1,19 @@
+row{
+  margin-top: 5%;
+}
+
+body {
+margin-left: 5%;
+margin-top: 2%;
+}
+
+
+textarea {
+  width: 800px;
+  height: 100px;
+}
+
+.address {
+  width: 200px;
+  height: 80px;
+}
